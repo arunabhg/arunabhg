@@ -4,7 +4,7 @@
 
 🚀 Professional tools which I widely use or I'm familiar with are listed in **[My Toolbox](https://github.com/arunabhg/arunabhg/edit/main/README.md#-my-toolbox)** below
 
-🚀 Love computers and web development. Would like to explore WebAssembly, Blockchain and Web 3.0
+🚀 Love computers and web development. Would like to explore Mobile app development, WebAssembly, Blockchain and Web 3.0
 
 🚀 Firm believer of Atomic Habits, trusting that diligent work & good habits can develop into a formidable skill in any field
 
