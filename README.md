@@ -14,6 +14,7 @@
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arunabhghosh)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:arunabh.tech@gmail.com)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/arunabhg9)
+[<img align="left" alt="polywork" src="https://img.shields.io/badge/polywork-9370DB.svg?&style=for-the-badge&logo=polywork&logoColor=white" />](https://www.polywork.com/arunabhghosh)
 <!-- [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/7157170/netyogi)        -->    &nbsp;&nbsp;
 
 ---
