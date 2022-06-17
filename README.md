@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Arunabh Ghosh!
 
-👨‍💻 I am a full-stack developer and I have good experience working with React, Node and Express 
+👨‍💻 I am a Sr. full-stack engineer and I have good experience working with React, Node, Express, and SQL & NoSQL databases
 
 🚀 Professional tools which I widely use or I'm familiar with are listed in **[My Toolbox](https://github.com/arunabhg/arunabhg/edit/main/README.md#-my-toolbox)** below
 
@@ -8,7 +8,9 @@
 
 🚀 Firm believer of Atomic Habits, trusting that diligent work & good habits can develop into a formidable skill in any field
 
-🚀 Always willing to unlearn and learn
+🚀 Always willing to unlearn and learn 
+
+🌱 I’m currently learning React Native
 
 ##  🤝 Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arunabhghosh) [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:arunabh.tech@gmail.com) [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/arunabhg9) [<img align="left" alt="polywork" src="https://img.shields.io/badge/polywork-9370DB.svg?&style=for-the-badge&logo=polywork&logoColor=white" />](https://www.polywork.com/arunabhghosh)
