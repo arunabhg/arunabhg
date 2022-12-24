@@ -24,9 +24,13 @@
 
 ## &#x1f4c8; Stats
 
-## <p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunabhg&hide=java,html,css&theme=radical)](https://github.com/arunabhg/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp; [![Arunabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunabhg&show_icons=true&theme=radical)](https://github.com/arunabhg/github-readme-stats) </p>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arunabhg&show_icons=true&count_private=true&theme=radical&" width="50.5%" />
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
 
-
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunabhg&count_private=true&theme=radical&layout=compact" width="42%" />
+</a>
 
 
 
