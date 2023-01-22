@@ -2,7 +2,7 @@
 
 👨‍💻 I am a Sr. full-stack engineer and I have good experience working with React, Node, Express, and SQL & NoSQL databases
 
-🚀 Professional tools which I widely use or I'm familiar with are listed in **[My Toolbox](https://github.com/arunabhg/arunabhg/edit/main/README.md#-my-toolbox)** below
+🚀 Professional tools which I widely use or I'm familiar with are listed in **[My Technologies](https://github.com/arunabhg/arunabhg/edit/main/README.md#technologies)** below
 
 🚀 Love computers and web development. Enthusiastic about Mobile apps, WebAssembly, Blockchain and Web 3.0
 
@@ -67,7 +67,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunabhg&count_private=true&theme=radical&layout=compact" width="42%" />
 </a>
 
-## 🧰 My Toolbox
 
          
 
