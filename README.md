@@ -18,9 +18,44 @@
 
 ---
 
-## 🧰 My Toolbox
+## ⚡Technologies
 
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJs Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material-UI Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled Components Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="70" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" alt="Amazon Web Services Logo" width="70" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="NPM Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" alt="Yarn Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/create-react-app.svg" alt="Create React App Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="Vitejs Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="Vitejs Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Vitejs Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Vitejs Logo" width="50" height="50"/> 
+<table>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>My Go-to Stack:</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Front-end:</td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Logo" width=30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material-UI Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="30" height="30"/>  </td>
+  </tr>
+  <tr>
+    <td>Back-end:</td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJs Logo" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express Logo" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="Sequelize logo" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis Logo" width="30" height="30" /> </td>
+  </tr>
+  <tr>
+    <td>Mobile:</td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" alt="Expo Logo" width="30" height="30" /> 
+    </td>
+  </tr>
+  <tr>
+    <td>UI Libraries & Design Tools:</td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled Components Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS Logo" width="30" height="30"/>
+      </td> 
+  </tr>
+  <tr>
+    <td>Databases:</td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB Logo" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="30" height="30" /></td>
+  </tr>
+  <tr>
+    <td>Other Tools:</td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman Logo" width="50" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="Amazon Web Services Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="NPM Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" alt="Yarn Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/create-react-app.svg" alt="Create React App Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="Vitejs Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="Vitejs Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Vitejs Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Vitejs Logo" width="30" height="30"/></td>
+  </tr>
+</table>
 
 ## &#x1f4c8; Stats
 
@@ -31,6 +66,10 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunabhg&count_private=true&theme=radical&layout=compact" width="42%" />
 </a>
+
+## 🧰 My Toolbox
+
+         
 
 
 
