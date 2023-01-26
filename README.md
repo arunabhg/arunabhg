@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Arunabh Ghosh!
 
-👨‍💻 I am a Sr. full-stack engineer and I have good experience working with React, Node, Express, and SQL & NoSQL databases
+👨‍💻 I am a Sr. full-stack engineer and I have good experience working in the JavaScript ecosystem especially, React, Node, Express, and SQL & NoSQL databases
 
 🚀 Professional tools which I widely use or I'm familiar with are listed in **[My Technologies](https://github.com/arunabhg/arunabhg/edit/main/README.md#technologies)** below
 
@@ -60,11 +60,11 @@
 ## &#x1f4c8; Stats
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arunabhg&show_icons=true&count_private=true&theme=radical&" width="50.5%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arunabhg&show_icons=true&count_private=true&theme=radical" width="50.5%" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunabhg&count_private=true&theme=radical&layout=compact" width="42%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunabhg&count_private=true&theme=radical&layout=compact" width="42%" />
 </a>
 
 
