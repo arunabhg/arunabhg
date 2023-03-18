@@ -2,7 +2,7 @@
 
 👨‍💻 I am a Sr. full-stack engineer and I have good experience working in the JavaScript ecosystem especially, React, Node, Express, and SQL & NoSQL databases
 
-🚀 Professional tools which I widely use or I'm familiar with are listed in **[My Technologies](https://github.com/arunabhg/arunabhg/edit/main/README.md#technologies)** below
+🚀 Professional tools which I widely use or I'm familiar with are listed in **[My Technologies](https://github.com/arunabhg/arunabhg/edit/main/README.md#Technologies)** below
 
 🚀 Love computers, and web development. Enthusiastic about native Mobile app development, ML, DL, AI, Blockchain and Web 3.0
 
