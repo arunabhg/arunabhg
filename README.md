@@ -18,7 +18,7 @@
 
 ---
 
-## ⚡Technologies {#technologies}
+## ⚡Technologies
 
 <table>
   <tr>
