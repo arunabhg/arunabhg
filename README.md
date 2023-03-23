@@ -4,7 +4,7 @@
 
 🚀 Professional tools which I widely use or I'm familiar with are listed in **[My Technologies](#technologies)** below
 
-🚀 Love computers, and web development. Enthusiastic about native Mobile app development, ML, DL, AI, Blockchain and Web 3.0
+🚀 Love computers, and web development. Enthusiastic about ML, DL, AI, Blockchain and Web 3.0
 
 🚀 Firm believer of Atomic Habits, trusting that diligent work & good habits can develop into a formidable skill in any field
 
