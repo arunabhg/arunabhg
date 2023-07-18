@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Arunabh Ghosh!
 
-👨‍💻 I am a Sr. full-stack engineer and I have good experience working in the JavaScript ecosystem especially, React, Node, Express, and SQL & NoSQL databases
+👨‍💻 I am a Sr. full-stack engineer and I have good experience working in the JavaScript ecosystem especially, React, Node, Next.js, Express, and SQL & NoSQL databases
 
 🚀 Professional tools which I widely use or I'm familiar with are listed in **[My Technologies](#technologies)** below
 
@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>Front-end:</td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Logo" width=30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material-UI Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="30" height="30"/>  </td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next Js Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Logo" width=30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material-UI Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="30" height="30"/>  </td>
   </tr>
   <tr>
     <td>Back-end:</td>
@@ -44,12 +44,12 @@
   </tr>
   <tr>
     <td>UI Libraries & Design Tools:</td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled Components Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS Logo" width="30" height="30"/>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="Figma Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled Components Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS Logo" width="30" height="30"/>
       </td> 
   </tr>
   <tr>
     <td>Databases:</td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB Logo" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="30" height="30" /></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB Logo" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL Logo" width="30" height="30" /></td>
   </tr>
   <tr>
     <td>Other Tools:</td>
