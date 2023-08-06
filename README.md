@@ -26,7 +26,9 @@ I'm Arunabh Ghosh, a **passionate full-stack engineer**. In my experience spanni
     <td></td>
   </tr>
   <tr>
-    <td>Front-end:</td>
+    <td>
+      Front-end:
+    </td>
     <td><img src="https://skillicons.dev/icons?i=ts,react,next,materialui,tailwind,html,css,vercel&perline=8" height="30" />
     </td>
   </tr>
