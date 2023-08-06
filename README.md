@@ -1,19 +1,16 @@
-### Hi there 👋, I am Arunabh Ghosh!
+## Hello 👋
+I'm Arunabh Ghosh, a **passionate full-stack engineer**. In my experience spanning ~2 decades, I have worked with multiple clients and have architected and built several scalable projects. Starting from enterprise architecture I have developed quite a few products from scratch. 
 
-👨‍💻 I am a Sr. full-stack engineer and I have good experience working in the JavaScript ecosystem especially, React, Node, Next.js, Express, and SQL & NoSQL databases
-
-🚀 Professional tools which I widely use or I'm familiar with are listed in **[My Technologies](#technologies)** below
-
-🚀 Love computers, web, and mobile development. Enthusiastic and intrigued by ML, DL, AI, Blockchain, and Web 3.0
-
-🚀 Firm believer of Atomic Habits, trusting that diligent work & good habits can develop into formidable skills in any field
-
-🚀 Always willing to unlearn and learn 
-
-🌱 I’m currently learning NextJS
+- ⚒️ &nbsp; Professional tools which I widely use or I'm familiar with are listed in **[My Technologies](#technologies)** below
+- 💕 &nbsp; Love computers, web, mobile development and intrigued by ML, DL, AI, Blockchain, and Web 3.0
+- 👀 &nbsp; I'm interested in **learning new stuff** and **solving real-world problems**
+- 🚀 &nbsp; Firm believer of Atomic Habits, trusting that diligent work & good habits can develop into formidable skills in any field
+- 🌱 &nbsp; I’m currently learning [Next.js](https://nextjs.org/)
+- 🤝 &nbsp; I'm looking to collaborate on some awesome **JS** or **Android libraries**
+- 📬 &nbsp; Reach me at arunabh@anantmobility.cloud
 
 ##  🤝 Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arunabhghosh) [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:arunabh.tech@gmail.com) [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/arunabhg9) [<img align="left" alt="polywork" src="https://img.shields.io/badge/polywork-9370DB.svg?&style=for-the-badge&logo=polywork&logoColor=white" />](https://www.polywork.com/arunabhghosh)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arunabhghosh) [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/arunabhg9) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7157170) [<img align="left" alt="polywork" src="https://img.shields.io/badge/polywork-9370DB.svg?&style=for-the-badge&logo=polywork&logoColor=white" />](https://www.polywork.com/arunabhghosh)
 <!-- [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/7157170/netyogi)        -->    &nbsp;&nbsp;
 
 ---
