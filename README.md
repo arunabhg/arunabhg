@@ -65,7 +65,7 @@ I'm Arunabh Ghosh, a **passionate full-stack engineer**. In my experience spanni
 </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunabhg&count_private=true&theme=highcontrast&layout=compact&hide=shell" width="42%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunabhg&count_private=true&theme=highcontrast&layout=compact&hide=shell&langs_count=6" width="42%" />
 </a>
 
 
