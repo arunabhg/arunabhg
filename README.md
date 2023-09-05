@@ -61,11 +61,11 @@ I'm Arunabh Ghosh, a **passionate full-stack engineer**. In my experience spanni
 ## &#x1f4c8; Stats
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arunabhg&show_icons=true&count_private=true&theme=highcontrast" width="50.5%" />
+  <img align="center" src="https://github-readme-stats-two-olive-57.vercel.app/api?username=arunabhg&show_icons=true&count_private=true&theme=highcontrast" width="50.5%" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunabhg&count_private=true&theme=highcontrast&layout=compact&hide=shell&langs_count=6" width="42%" />
+  <img align="center" src="https://github-readme-stats-two-olive-57.vercel.app/api/top-langs?username=arunabhg&count_private=true&theme=highcontrast&layout=compact&hide=shell&langs_count=6" width="42%" />
 </a>
 
 
