@@ -1,11 +1,11 @@
 ## Hello 👋
-I'm Arunabh Ghosh, a **passionate full-stack engineer**. In my experience spanning ~2 decades, I have worked with multiple clients and have architected and built several scalable projects. Starting from enterprise architecture I have developed quite a few products from scratch. 
+I'm Arunabh Ghosh, a **passionate software engineer**. In my experience spanning ~2 decades, I have worked with multiple clients and have architected and built several scalable projects. Starting from enterprise architecture I have developed quite a few products from scratch. 
 
 - ⚒️ &nbsp; Professional tools which I widely use or I'm familiar with are listed in **[My Technologies](#technologies)** below
-- 💕 &nbsp; Love computers, web, and mobile development; Absorbed in AI/ML/DL. Intrigued by Blockchain, and Web 3.0
+- 💕 &nbsp; Love computers, **web**, and **mobile development**. Absorbed in **AI/ML/DL**. Intrigued by **Blockchain**, and **Web 3.0**
 - 👀 &nbsp; I'm always interested in **learning new stuff** and **solving real-world problems**
 - 🚀 &nbsp; Firm believer of Atomic Habits, trusting that diligent work & good habits can develop into formidable skills in any field
-- 🤝 &nbsp; I'm looking to collaborate on some awesome **JS** or **Android libraries**
+- 🤝 &nbsp; I'm looking to collaborate on some awesome **JS libraries** or **ML models in Python**
 - 📬 &nbsp; Reach me at arunabh@anantmobility.cloud
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arunabhghosh) [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/arunabhg9) [<img align="left" alt="polywork" src="https://img.shields.io/badge/polywork-9370DB.svg?&style=for-the-badge&logo=polywork&logoColor=white" />](https://www.polywork.com/arunabhghosh)
