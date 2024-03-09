@@ -65,7 +65,7 @@ I'm Arunabh Ghosh, a **passionate software engineer**. In my experience spanning
 </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats-two-olive-57.vercel.app/api/top-langs?username=arunabhg&count_private=true&theme=highcontrast&layout=compact&hide=shell&langs_count=6" width="42%" />
+  <img align="center" src="https://github-readme-stats-two-olive-57.vercel.app/api/top-langs?username=arunabhg&count_private=true&theme=highcontrast&layout=compact&hide=shell,scss,css&langs_count=4" width="42%" />
 </a>
 
 
