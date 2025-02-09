@@ -6,7 +6,7 @@ I'm Arunabh Ghosh, a **passionate software engineer**. In my experience spanning
 - 👀 &nbsp; I'm always interested in **learning new stuff** and **solving real-world problems**
 - 🚀 &nbsp; Firm believer of Atomic Habits, trusting that diligent work & good habits can develop into formidable skills in any field
 - 🤝 &nbsp; I'm looking to collaborate and use my management & technical prowess in building great product(s)
-- 📬 &nbsp; Reach me at arunabh@anantmobility.cloud
+- 📬 &nbsp; Reach me at arunabh.tech@gmail.com
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arunabhghosh) [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/arunabhg9) [<img align="left" alt="polywork" src="https://img.shields.io/badge/polywork-9370DB.svg?&style=for-the-badge&logo=polywork&logoColor=white" />](https://www.polywork.com/arunabhghosh)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/7157170/)           &nbsp;&nbsp;
